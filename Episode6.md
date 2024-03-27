@@ -1,25 +1,26 @@
-# Episode 5: File System Basics
+# Episode 6: Text Editors and IDEs
 
 ## Objective:
-- Welcome back, coding enthusiasts! In this episode, we're going to unravel the mysteries of the file system and learn how to navigate it like a pro.
-- Get ready to explore the hierarchical structure of directories and files, and discover how they play a crucial role in your coding journey.
+- Hey there, coding enthusiasts! In this episode, we're going to explore the tools of the trade for writing code: text editors and Integrated Development Environments (IDEs).
+- Get ready to discover the power of these tools and how they can supercharge your coding workflow.
 
 ## Topics Covered:
-1. **Understanding the File System**
-   - Let's dive into the world of the file system and understand its fundamental structure. We'll explore how directories and files are organized hierarchically, giving you a roadmap to navigate your computer effectively.
+1. **Introduction to Text Editors and IDEs**
+   - Let's kick things off by introducing you to text editors and IDEs. We'll explore the differences between the two and help you choose the right tool for your coding needs.
 
-2. **Navigating Directories**
-   - Time to put your navigation skills to the test! We'll show you how to navigate directories using simple commands in the terminal, allowing you to move seamlessly between folders and access files with ease.
+2. **Popular Text Editors and IDEs**
+   - Discover a world of options as we explore some of the most popular text editors and IDEs used by developers around the globe.
+   - From lightweight editors like Sublime Text to full-fledged IDEs like Visual Studio Code, we'll help you find the perfect fit for your coding style.
 
-3. **Working with Files**
-   - From creating new files to copying, moving, and deleting them, we'll cover everything you need to know about working with files in the file system.
-   - Get ready to become a master of file manipulation as we guide you through essential commands and techniques.
+3. **Getting Started with Your Chosen Tool**
+   - Ready to dive in? We'll show you how to download, install, and set up your chosen text editor or IDE, so you can hit the ground running with your coding projects.
+   - Follow along as we configure your workspace and introduce you to the essential features of your new coding companion.
 
-4. **Organizing Your Files**
-   - Discover the importance of organizing your files and directories effectively. Learn how to create meaningful directory structures and adopt best practices for file naming and organization.
-   - Say goodbye to cluttered desktops and disorganized folders – with our tips, you'll keep your files neat and tidy like a pro!
+4. **Exploring Advanced Features**
+   - Unlock the full potential of your text editor or IDE as we delve into its advanced features and customization options.
+   - From keyboard shortcuts to code snippets and extensions, we'll show you how to tailor your coding environment to suit your needs and boost your productivity.
 
 ## Key Takeaways:
-- By the end of this episode, you'll have a solid understanding of how the file system works and how to navigate it confidently.
-- You'll feel comfortable working with directories and files in the terminal, using essential commands to manage your coding projects efficiently.
-- Get ready to take control of your file system and unleash your coding potential like never before!
+- By the end of this episode, you'll have a solid understanding of text editors and IDEs and how they can enhance your coding experience.
+- You'll feel confident using your chosen tool to write, edit, and debug code, streamlining your workflow and boosting your efficiency.
+- Get ready to unleash your coding creativity with the power of text editors and IDEs by your side!
