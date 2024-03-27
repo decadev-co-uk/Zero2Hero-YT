@@ -7,7 +7,7 @@ We will also offer practical examples by way of exercises that we will go over t
 ### [Episode 1: Introduction to Computing](Episode1.md)
 - Objective: Introduce the basics of computing, define a computer, and explain its components. Discuss the importance of computers in software development and introduce the concept of programming.
 
-### Episode 2: Understanding Operating Systems
+### [Episode 2: Understanding Operating Systems](Episode2.md)
 - Objective: Explain the purpose of operating systems (OS) and their role in managing computer hardware and software. Introduce different OS options and discuss considerations for software development.
 
 ### Episode 3: Introduction to Command Line Interface (CLI)
