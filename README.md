@@ -19,8 +19,8 @@ We will also offer practical examples by way of exercises that we will go over t
 ### [Episode 5: File System Basics](Episode5.md)
 - Objective: Explain the hierarchical structure of the file system. Teach viewers how to navigate directories and work with files using the CLI. Discuss the importance of file organization.
 
-### Episode 6: Text Editors and IDEs
+### [Episode 6: Text Editors and IDEs](Episode6.md)
 - Objective: Introduce text editors and Integrated Development Environments (IDEs) for writing code. Compare different options and demonstrate file creation and editing.
 
-### Episode 7: Introduction to Programming Concepts
+### [Episode 7: Introduction to Programming Concepts](Episode7.md)
 - Objective: Explain fundamental programming concepts such as variables, data types, and control structures. Introduce a beginner-friendly programming language (e.g., Python) and provide simple coding examples.
