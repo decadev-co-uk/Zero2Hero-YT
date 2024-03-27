@@ -10,10 +10,10 @@ We will also offer practical examples by way of exercises that we will go over t
 ### [Episode 2: Understanding Operating Systems](Episode2.md)
 - Objective: Explain the purpose of operating systems (OS) and their role in managing computer hardware and software. Introduce different OS options and discuss considerations for software development.
 
-### Episode 3: Introduction to Command Line Interface (CLI)
+### [Episode 3: Introduction to Command Line Interface (CLI)](Episode3.md)
 - Objective: Define the Command Line Interface (CLI) and its benefits for software development tasks. Demonstrate basic CLI commands and explain their usage.
 
-### Episode 4: Getting Started with the Terminal
+### [Episode 4: Getting Started with the Terminal](Episode4.md)
 - Objective: Introduce the terminal application on various operating systems. Teach viewers how to open and navigate the terminal interface. Demonstrate basic terminal commands.
 
 ### Episode 5: File System Basics
