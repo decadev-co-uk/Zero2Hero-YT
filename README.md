@@ -16,7 +16,7 @@ We will also offer practical examples by way of exercises that we will go over t
 ### [Episode 4: Getting Started with the Terminal](Episode4.md)
 - Objective: Introduce the terminal application on various operating systems. Teach viewers how to open and navigate the terminal interface. Demonstrate basic terminal commands.
 
-### Episode 5: File System Basics
+### [Episode 5: File System Basics](Episode5.md)
 - Objective: Explain the hierarchical structure of the file system. Teach viewers how to navigate directories and work with files using the CLI. Discuss the importance of file organization.
 
 ### Episode 6: Text Editors and IDEs
