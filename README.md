@@ -4,7 +4,7 @@ Welcome to this epic journey from **`Zero to Hero`** in Software Engineering. In
 We will also offer practical examples by way of exercises that we will go over to enhance your learning edxperience, and provide resources for furtehr practice.
 
 ## Outline of episodes
-### Episode 1: Introduction to Computing
+### [Episode 1: Introduction to Computing](Episode1.md)
 - Objective: Introduce the basics of computing, define a computer, and explain its components. Discuss the importance of computers in software development and introduce the concept of programming.
 
 ### Episode 2: Understanding Operating Systems
